@@ -1,17 +1,18 @@
 url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+baseurl: /
 
 # Site settings
-title: Awesome Title
+title: Voyage of the Songbird
 email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "We’re looking for sponsors to help the crew hoist sail – either through gear or content backing.  Any gear donated will result in images of the team using said item on the trip as well as any agreed upon branded content to be used by the companies participating."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Jerome Francois Crandall Hollick
   pic: 1
-  position: Lead Designer
+  position: Captain
+  bio: of the Songbird has had a lifelong dream to sail to the Caribbean in the open Atlantic. With over 38,000 hours at the helm running New York’s charter Tivoli Sailing Company and teaching thousands of young aspiring sailors across the Hudson Valley, he’s assembled a formidable crew for the big show.
   social:
     - title: twitter
       url: #
@@ -20,9 +21,10 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Brian K. Vandeyar
   pic: 2
-  position: Lead Marketer
+  position: First Mate
+  bio: has spent years on deck with Captain Jerome. Brian is an independent Master Carpenter, having personally hand-built many of the Hudson Valley’s most high-end residential estates. 
   social:
     - title: twitter
       url: #
@@ -31,17 +33,30 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Dan Stone
   pic: 3
-  position: Lead Developer
+  position: Navigator & Electronics Expert
+  bio: is the tech specialist behind the journey, as Principal and Senior Creative Technologist of The Evolving Media Network, Co-Founder of the Catskills Conf and Hudson Valley Tech Meetup, and Member of the Board of Directors of the O+ Festival.  
   social:
     - title: twitter
-      url: #
+      url: http://www.twitter.com/dafstone
     - title: facebook
       url: #
     - title: google-plus
       url: #
 
+- name: Jenna Matecki
+  pic: 4
+  position: Cultural Attaché & Onboard Reporter
+  bio: is the communications lead at sea. As Founder & CEO of story development company Matecki & Co., Jenna is a content strategist and communications consultant. She’s also the host of the weekly podcast Notes on Doing.
+  social:
+    - title: twitter
+      url: http://www.twitter.com/dafstone
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter

@@ -342,7 +342,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 75px 0;
     }
 }
 
@@ -658,6 +658,10 @@ section#contact {
     background-image: url('{{ site.baseurl }}/img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
+}
+
+section#contact .text-copy {
+  color: #fff;
 }
 
 section#contact .section-heading {
