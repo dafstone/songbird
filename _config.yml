@@ -12,7 +12,7 @@ people:
 - name: Jerome Francois Crandall Hollick
   pic: 1
   position: Captain
-  bio: of the Songbird has had a lifelong dream to sail to the Caribbean in the open Atlantic. With over 38,000 hours at the helm running New York’s charter Tivoli Sailing Company and teaching thousands of young aspiring sailors across the Hudson Valley, he’s assembled a formidable crew for the big show.
+  bio: of the Songbird has had a lifelong dream to sail to the Caribbean in the open Atlantic. With over 38,000 hours at the helm running New York’s charter <a href="http://www.tivolisailing.com">Tivoli Sailing Company</a> and teaching thousands of young aspiring sailors across the Hudson Valley, he’s assembled a formidable crew for the big show.
   social:
     - title: twitter
       url: #
@@ -36,7 +36,7 @@ people:
 - name: Dan Stone
   pic: 3
   position: Navigator & Electronics Expert
-  bio: is the tech specialist behind the journey, as Principal and Senior Creative Technologist of The Evolving Media Network, Co-Founder of the Catskills Conf and Hudson Valley Tech Meetup, and Member of the Board of Directors of the O+ Festival.  
+  bio: is the tech specialist behind the journey, as Principal and Senior Creative Technologist of <a href="http://www.evolvingmedia.net">Evolving Media Network</a>, Co-Founder of <a href="http://www.catskillsconf.com">Catskills Conf</a> and <a href="http://meetup.com/hvtech">Hudson Valley Tech Meetup</a>.
   social:
     - title: twitter
       url: http://www.twitter.com/dafstone
@@ -48,7 +48,7 @@ people:
 - name: Jenna Matecki
   pic: 4
   position: Cultural Attaché & Onboard Reporter
-  bio: is the communications lead at sea. As Founder & CEO of story development company Matecki & Co., Jenna is a content strategist and communications consultant. She’s also the host of the weekly podcast Notes on Doing.
+  bio: is the communications lead at sea. As Founder & CEO of story development company <a href="http://matekico.com">Matecki & Co.</a>, <a href="http://jennamatecki.com">Jenna</a> is a content strategist and communications consultant. She’s also the host of the weekly podcast <a href="http://notesondoing.com">Notes on Doing</a>.
   social:
     - title: twitter
       url: http://www.twitter.com/dafstone
